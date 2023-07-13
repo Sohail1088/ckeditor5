@@ -8,3 +8,4 @@ When reporting a suspected security problem, please bear this in mind:
 *   Please do not disclose publicly any security issues until we fix them and publish security releases.
 
 Contact the security team at security@cksource.com. As soon as we receive the security report, we'll work promptly to confirm the issue and then to provide a security fix.
+https://www.privacypolicies.com/live/2c400aaa-7338-42a1-bc25-b72d355993bc
